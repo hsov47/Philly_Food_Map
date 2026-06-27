@@ -1,0 +1,15 @@
+pathlib
+colorcet
+datashader
+geopandas
+numpy
+panda
+plotly
+streamlit>=1.37.0  
+logging
+shapely
+pyproj
+fiona
+pyarrow
+tqdm
+requests
